@@ -1,0 +1,12 @@
+#ifndef CONFIG_H
+#define CONFIG_H
+
+// --- WIFI CONFIGURATION ---
+const char* ssid = "YOUR_WIFI_SSID";
+const char* password = "YOUR_WIFI_PASSWORD";
+
+// --- SPOTIFY API CONFIGURATION ---
+const char* clientId = "YOUR_SPOTIFY_CLIENT_ID";
+const char* clientSecret = "YOUR_SPOTIFY_CLIENT_SECRET";
+
+#endif
