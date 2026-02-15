@@ -2,6 +2,8 @@
 
 A DIY Spotify controller using an ESP32 and an ILI9341 TFT display. This project allows you to view current track info, album art, and control playback (play/pause, next, previous, volume) directly from your desk.
 
+For more detailed information and setup guides, visit the [Wiki](https://github.com/imkenough/spotify-deskthing/wiki).
+
 ## Features
 
 - Real-time Spotify playback status.
