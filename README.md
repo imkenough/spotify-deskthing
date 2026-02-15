@@ -30,7 +30,7 @@ A DIY Spotify controller using an ESP32 and an ILI9341 TFT display. This project
     - `TJpg_Decoder`
     - `ArduinoJson`
 4.  **Configure TFT_eSPI**:
-    - Ensure your `User_Setup.h` in the `TFT_eSPI` library folder matches the pins defined in `userrsetup.h` (or copy `userrsetup.h` to your library configuration).
+    - Ensure your `User_Setup.h` in the `TFT_eSPI` library folder matches the pins defined in `User_Setup.h.example` (or copy `User_Setup.h.example` to your library configuration).
 5.  **Upload the code** to your ESP32.
 6.  **Authentication**:
     - On first boot, the screen will show an IP address.
